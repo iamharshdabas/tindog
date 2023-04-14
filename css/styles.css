@@ -1,6 +1,11 @@
 #title {
   background-color: #8000FF;
 }
-#navbar {
+
+nav{
   background-color: #8000FF;
+}
+
+.display-3 {
+  font-family: 'Comfortaa', cursive;
 }
