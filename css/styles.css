@@ -8,23 +8,23 @@
 
 /* Colors */
 .my-bg-primary {
-  background-color: #8000FF;
+  background-color: #8000FF !important;
 }
 
 .my-bg-black {
-  background-color: #141316;
+  background-color: #141316 !important;
 }
 
 .my-text-primary {
-  color: #8000FF;
+  color: #8000FF !important;
 }
 
 .my-text-white {
-  color: #EBE9EC;
+  color: #EBE9EC !important;
 }
 
 .my-text-black {
-  color: #141316;
+  color: #141316 !important;
 }
 
 /* Fonts */
