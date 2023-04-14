@@ -1,11 +1,19 @@
+body {
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
 #title {
   background-color: #8000FF;
 }
 
-nav{
+nav {
   background-color: #8000FF;
 }
 
 .display-3 {
   font-family: 'Comfortaa', cursive;
+}
+
+.fira-code {
+  font-family: 'Fira Code', sans-serif;
 }
