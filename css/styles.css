@@ -22,3 +22,12 @@ nav {
 .preview-img {
   width: 64%;
 }
+
+.download-icon{
+  color: #ffffff;
+}
+
+.features-icon{
+  font-size: 4rem;
+  color: #8000ff;
+}
