@@ -18,3 +18,7 @@ nav {
 .fira-code {
   font-family: 'Fira Code', sans-serif;
 }
+
+.preview-img {
+  width: 64%;
+}
