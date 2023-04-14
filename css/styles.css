@@ -2,6 +2,11 @@
   width: 64%;
 }
 
+.testimonial-img {
+  width: 48%;
+  border-radius: 80%;
+}
+
 .features-icon {
   font-size: 4rem;
 }
