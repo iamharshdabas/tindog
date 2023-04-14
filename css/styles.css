@@ -1,15 +1,33 @@
-body {
-  font-family: 'Fira Sans', sans-serif !important;
+.preview-img {
+  width: 64%;
 }
 
-#title {
+.features-icon {
+  font-size: 4rem;
+}
+
+/* Colors */
+.my-bg-primary {
   background-color: #8000FF;
 }
 
-nav {
-  background-color: #8000FF;
+.my-bg-black {
+  background-color: #141316;
 }
 
+.my-text-primary {
+  color: #8000FF;
+}
+
+.my-text-white {
+  color: #EBE9EC;
+}
+
+.my-text-black {
+  color: #141316;
+}
+
+/* Fonts */
 .comfortaa {
   font-family: 'Comfortaa', cursive;
   font-weight: bold;
@@ -19,15 +37,6 @@ nav {
   font-family: 'Fira Code', sans-serif;
 }
 
-.preview-img {
-  width: 64%;
-}
-
-.download-icon {
-  color: #ffffff;
-}
-
-.features-icon {
-  font-size: 4rem;
-  color: #8000ff;
+.fira-scan {
+  font-family: 'Fira Sans', sans-serif !important;
 }
