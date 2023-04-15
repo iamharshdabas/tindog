@@ -3,8 +3,12 @@
 }
 
 .testimonial-img {
-  width: 48%;
+  width: 8%;
   border-radius: 80%;
+}
+
+.press-img {
+  width: 8%;
 }
 
 .features-icon {
