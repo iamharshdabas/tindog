@@ -2,6 +2,10 @@
   width: 64%;
 }
 
+.testimonial-text {
+  width: 80%;
+}
+
 .testimonial-img {
   width: 8%;
   border-radius: 80%;
