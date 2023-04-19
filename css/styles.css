@@ -33,26 +33,14 @@
   background-color: #141316 !important;
 }
 
-.my-text-primary {
-  color: #8000FF !important;
-}
-
 .my-text-white {
   color: #EBE9EC !important;
-}
-
-.my-text-black {
-  color: #141316 !important;
 }
 
 /* Fonts */
 .comfortaa {
   font-family: 'Comfortaa', cursive;
   font-weight: bold;
-}
-
-.fira-code {
-  font-family: 'Fira Code', sans-serif;
 }
 
 .fira-scan {
